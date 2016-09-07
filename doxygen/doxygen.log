@@ -1,0 +1,16 @@
+warning: source ..\src\RobotController.cpp is not a readable file or directory... skipping.
+warning: source ..\RobotControllerMain.cpp is not a readable file or directory... skipping.
+warning: source ..\src\SerialClass.cpp is not a readable file or directory... skipping.
+warning: source ..\wx_pch.h is not a readable file or directory... skipping.
+warning: source ..\include\Emotiv.h is not a readable file or directory... skipping.
+warning: source ..\include\edkErrorCode.h is not a readable file or directory... skipping.
+warning: source ..\include\EmoStateDLL.h is not a readable file or directory... skipping.
+warning: source ..\RobotControllerApp.cpp is not a readable file or directory... skipping.
+warning: source ..\RobotControllerApp.h is not a readable file or directory... skipping.
+warning: source ..\include\SerialClass.h is not a readable file or directory... skipping.
+warning: source ..\include\elsClient.h is not a readable file or directory... skipping.
+warning: source ..\include\glut.h is not a readable file or directory... skipping.
+warning: source ..\include\edk.h is not a readable file or directory... skipping.
+warning: source ..\RobotControllerMain.h is not a readable file or directory... skipping.
+warning: source ..\include\RobotController.h is not a readable file or directory... skipping.
+warning: source ..\src\Emotiv.cpp is not a readable file or directory... skipping.
